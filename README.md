@@ -1,7 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:saulodavi2001@gmail.com)](mailto:saulodavi2001@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/saulodavimairesseramos
-)](www.linkedin.com/in/saulodavimairesseramos
-)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saulodavimairesseramos/
+)](https://www.linkedin.com/in/saulodavimairesseramos/)
 
 ### :mortar_board: Visão Geral
 
